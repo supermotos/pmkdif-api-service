@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: pmkdif-api-service
+server:
+  port: 8081
+
+application:
+  secret-key: cbf99a6322868ccf

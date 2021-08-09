@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:mysql://pmkfedevdb.devcloud.scb:3307/pmkfed?useUnicode=yes&characterEncoding=UTF-8
+    username: pmkfeadm
+    password: pmkfedev1234!
